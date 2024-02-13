@@ -1,0 +1,4 @@
+dimensions 99.5mm high x 100mm wide
+blue soldermask
+white silkscreen
+Pb/Sn pads
